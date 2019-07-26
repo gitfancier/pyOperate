@@ -1,1 +1,2 @@
-#!/bin/python
+import pexpect
+child = pexpect.spawn(ftp )
